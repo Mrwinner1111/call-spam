@@ -1,6 +1,6 @@
-# spam-sms
+# Spam-Call
 
-# copyright
+# no copyright
 ````™MR WINNER````
 
 
