@@ -1,9 +1,13 @@
-#  
 #!/usr/bin/python2
 # Author : M® W1NN3®
 # YouTube : MR WINNER
 # jangan lupa like & subscribe
 # Copyright.@Mr winner
+
+
+
+
+
 
 M = '\033[1;31m'
 H = '\033[1;32m'
