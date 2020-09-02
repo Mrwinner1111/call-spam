@@ -24,9 +24,9 @@ subprocess.call("figlet SpamCall |lolcat",shell=True)
 banner = """
 \033[1;97m
 ==================================================
-Recoder  \033[1;91m:\033[1;96mWiwit\033[1;97m
-Website \033[1;91m:\033[1;96mhttps://termux.id\033[1;97m
-Whatsapp  \033[1;91m:\033[1;92m+62853783855xxx\033[1;97m
+Recoder  \033[1;91m:\033[1;96mMR W1NN3R\033[1;97m
+YouTube \033[1;91m:\033[1;96MR winner\033[1;97m
+Whatsapp  \033[1;91m:\033[1;92m+6285378385xxx\033[1;97m
 ==================================================
 """
 print (banner)
